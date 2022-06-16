@@ -8,8 +8,8 @@
       "main_native_ads_Admob_or_applovin":"a7ebd7ae072b0770",
       "main_ads_rewards":"",
       "backup_native_ads_Admob_or_applovin":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
       "interval_intertitial": 5,
       "initialize_sdk":"",
@@ -29,7 +29,7 @@
   [
     {
       "id":1,
-      "title":"Best BMW Wallpaper",
+      "title":"BMW Wallpaper",
       "image":"https://lh3.googleusercontent.com/UHjEHlfziVjtx6cUmut6CehOQgJv9SQDGw4A8ar1cIO5cmVeIZ7eRYJcWHQxqWReqKjf=w1525-h730",
       "link":"https://play.google.com/store/apps/details?id=com.zerocorp.bmwwallpaper"
     },
