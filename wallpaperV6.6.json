@@ -11,7 +11,7 @@
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"205596118",
       "survey_api_key":"0eb84384-1b87-45e5-98f8-6a9b8cbd7a02",
